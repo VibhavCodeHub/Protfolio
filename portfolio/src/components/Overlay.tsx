@@ -35,10 +35,10 @@ export default function Overlay() {
         className="sticky top-0 w-full h-screen flex flex-col items-center justify-center text-white p-4"
       >
         <h1 className="text-5xl md:text-7xl font-bold tracking-tighter mb-4 text-center">
-          My Name.
+          Vibhav Sanger.
         </h1>
         <p className="text-xl md:text-3xl text-neutral-300 font-light tracking-wide text-center">
-          Creative Developer.
+          Developer & Cybersecurity Enthusiast.
         </p>
       </motion.div>
 
@@ -48,7 +48,7 @@ export default function Overlay() {
         className="absolute top-[150vh] left-0 w-full h-screen flex flex-col items-start justify-center text-white px-8 md:px-24"
       >
         <h2 className="text-4xl md:text-6xl font-bold tracking-tight max-w-2xl bg-clip-text text-transparent bg-gradient-to-r from-white to-neutral-500">
-          I build digital experiences.
+          Crafting robust backend systems.
         </h2>
       </motion.div>
 
@@ -58,7 +58,7 @@ export default function Overlay() {
         className="absolute top-[300vh] left-0 w-full h-screen flex flex-col items-end justify-center text-white px-8 md:px-24 text-right"
       >
         <h2 className="text-4xl md:text-6xl font-bold tracking-tight max-w-2xl bg-clip-text text-transparent bg-gradient-to-l from-white to-neutral-500">
-          Bridging design and engineering.
+          Exploring the world of Web & Security.
         </h2>
       </motion.div>
 

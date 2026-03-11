@@ -8,8 +8,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Creative Developer | Portfolio",
-  description: "Awwwards-level Scrollytelling Portfolio",
+  title: "Vibhav Sanger | Cybersecurity & Dev Portfolio",
+  description: "Awwwards-level Scrollytelling Portfolio by Vibhav Sanger",
 };
 
 export default function RootLayout({
@@ -19,7 +19,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${inter.variable} antialiased`}>
+      <body className={`${inter.variable} antialiased`} suppressHydrationWarning>
         {children}
       </body>
     </html>

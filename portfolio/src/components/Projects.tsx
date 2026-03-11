@@ -4,22 +4,22 @@ import { motion } from "framer-motion";
 
 const PROJECTS = [
   {
-    title: "Project Alpha",
-    category: "E-Commerce",
-    year: "2025",
-    description: "A headless commerce platform with 3D product visualization.",
-  },
-  {
-    title: "Studio Beta",
-    category: "Creative Agency",
+    title: "Password Strength Checker",
+    category: "Python Tool",
     year: "2024",
-    description: "An Awwwards winning interactive web experience.",
+    description: "Evaluates password strength and implements validation for length, numbers, symbols, and uppercase letters.",
   },
   {
-    title: "App Gamma",
-    category: "Fintech App",
-    year: "2023",
-    description: "Modern financial dashboard with real-time analytics.",
+    title: "File Organizer Automation",
+    category: "Python Script",
+    year: "2024",
+    description: "Automatically organizes files by type with custom sorting logic for documents, images, and videos.",
+  },
+  {
+    title: "Portfolio Website",
+    category: "Web Development",
+    year: "2024",
+    description: "Responsive personal portfolio showcasing projects, skills, and internship experiences.",
   },
 ];
 
